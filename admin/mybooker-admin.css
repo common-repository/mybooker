@@ -1,0 +1,11 @@
+.entry_unread a,
+.entry_unread td {
+  font-weight: 700;
+}
+.w7 {
+  min-width: 7em;
+  vertical-align: baseline;
+}
+#csv-export {
+  margin-bottom: 1px;
+}

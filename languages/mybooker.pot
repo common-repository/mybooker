@@ -1,0 +1,755 @@
+# Copyright (C) 2020 mybooker
+# This file is distributed under the same license as the mybooker package.
+msgid ""
+msgstr ""
+"Project-Id-Version: mybooker\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: Brackets Square <mail@bracketssquare.com>\n"
+"Last-Translator: Brackets Square <mail@bracketssquare.com>\n"
+"Report-Msgid-Bugs-To: https://bracketssquare.com\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: includes/activator.php:77, includes/booking-item.php:850
+msgid "N/A"
+msgstr ""
+
+#: includes/activator.php:78
+msgid "Unavailable"
+msgstr ""
+
+#: includes/activator.php:83
+msgid "This is booking notification"
+msgstr ""
+
+#: includes/admin-booking-entries-list.php:41
+msgid "All"
+msgstr ""
+
+#: includes/admin-booking-entries-list.php:101, includes/admin-booking-item.php:86, includes/booking.php:132
+msgid "Guest"
+msgstr ""
+
+#: includes/admin-booking-entries-list.php:102, includes/booking.php:133
+msgid "Member"
+msgstr ""
+
+#: includes/admin-booking-entries-list.php:107, includes/admin-booking-entry.php:95
+msgid "Booking Type"
+msgstr ""
+
+#: includes/admin-booking-entries-list.php:129
+msgid "Export All"
+msgstr ""
+
+#: includes/admin-booking-entries-list.php:178
+msgid "No booked entry yet"
+msgstr ""
+
+#: includes/admin-booking-entries-list.php:203
+msgid "View"
+msgstr ""
+
+#: includes/admin-booking-entries-list.php:204
+msgid "Trash"
+msgstr ""
+
+#: includes/admin-booking-entries-list.php:259, includes/admin-booking-entries-list.php:353, includes/booking-entry.php:723
+msgid "#"
+msgstr ""
+
+#: includes/admin-booking-entries-list.php:260, includes/admin-booking-entries-list.php:354, includes/admin-booking-entry.php:87, includes/admin-booking-entry.php:180
+msgid "Name"
+msgstr ""
+
+#: includes/admin-booking-entries-list.php:261, includes/admin-booking-entries-list.php:355, includes/admin-booking-entry.php:189
+msgid "E-Mail"
+msgstr ""
+
+#: includes/admin-booking-entries-list.php:262, includes/admin-booking-entries-list.php:356, includes/booking-entry.php:724
+msgid "Item"
+msgstr ""
+
+#: includes/admin-booking-entries-list.php:263, includes/admin-booking-entries-list.php:357
+msgid "Type"
+msgstr ""
+
+#: includes/admin-booking-entries-list.php:264, includes/admin-booking-entries-list.php:358
+msgid "Slot"
+msgstr ""
+
+#: includes/admin-booking-entries-list.php:265, includes/admin-booking-entries-list.php:359, includes/admin-booking-entry.php:130
+msgid "Status"
+msgstr ""
+
+#: includes/admin-booking-entries-list.php:266, includes/admin-booking-entries-list.php:360, includes/admin-booking-items-list.php:123
+msgid "Date"
+msgstr ""
+
+#: includes/admin-booking-entry.php:27, includes/admin-booking-item.php:370
+msgid "Items deleted: %d"
+msgstr ""
+
+#: includes/admin-booking-entry.php:31
+msgid "Booking Entries"
+msgstr ""
+
+#: includes/admin-booking-entry.php:32, includes/admin-booking-item.php:375
+msgid "Add new"
+msgstr ""
+
+#: includes/admin-booking-entry.php:76
+msgid "Item not found"
+msgstr ""
+
+#: includes/admin-booking-entry.php:80
+msgid "Booking Entry"
+msgstr ""
+
+#: includes/admin-booking-entry.php:81
+msgid "back to list"
+msgstr ""
+
+#: includes/admin-booking-entry.php:88
+msgid "E-mail"
+msgstr ""
+
+#: includes/admin-booking-entry.php:94, includes/admin-booking-items-list.php:119
+msgid "Item Name"
+msgstr ""
+
+#: includes/admin-booking-entry.php:99
+msgid "Booked Slots"
+msgstr ""
+
+#: includes/admin-booking-entry.php:113, includes/booking-entry.php:725
+msgid "Total slots"
+msgstr ""
+
+#: includes/admin-booking-entry.php:115
+msgid "Item Price"
+msgstr ""
+
+#: includes/admin-booking-entry.php:116
+msgid "Total Cost"
+msgstr ""
+
+#: includes/admin-booking-entry.php:119
+msgid "Payment Method"
+msgstr ""
+
+#: includes/admin-booking-entry.php:120
+msgid "Payment Transaction"
+msgstr ""
+
+#: includes/admin-booking-entry.php:184, includes/booking-entry.php:569
+msgid "Your name"
+msgstr ""
+
+#: includes/admin-booking-entry.php:193
+msgid "Your E-Mail"
+msgstr ""
+
+#: includes/admin-booking-item.php:43
+msgid "Item: #%d"
+msgstr ""
+
+#: includes/admin-booking-item.php:45, includes/booking-item.php:163
+msgid "Add New Item"
+msgstr ""
+
+#: includes/admin-booking-item.php:66
+msgid "Item details"
+msgstr ""
+
+#: includes/admin-booking-item.php:67
+msgid "Please enter item details"
+msgstr ""
+
+#: includes/admin-booking-item.php:72
+msgid "Price per slot"
+msgstr ""
+
+#: includes/admin-booking-item.php:81
+msgid "Available for"
+msgstr ""
+
+#: includes/admin-booking-item.php:87
+msgid "Member (Login)"
+msgstr ""
+
+#: includes/admin-booking-item.php:104
+msgid "Maximum bookable slot(s) per user per day. Leave blank for no maximum settings."
+msgstr ""
+
+#: includes/admin-booking-item.php:108
+msgid "Sets a maximum for bookable slots per day for any user. This setting overrides any settings for maximum bookable slot per guest or member. Leave blank for no maximum settings."
+msgstr ""
+
+#: includes/admin-booking-item.php:113
+msgid "Maximum bookings for guest users"
+msgstr ""
+
+#: includes/admin-booking-item.php:117
+msgid "Sets a maximum for bookable slots per day for a guest user. Set to ‘0’ (zero) for not allowing guests to make a booking. Leave blank for no maximum settings."
+msgstr ""
+
+#: includes/admin-booking-item.php:122
+msgid "Maximum bookings for member users"
+msgstr ""
+
+#: includes/admin-booking-item.php:126
+msgid "Sets a maximum for bookable slots per day for a member user. Set to ‘0’ (zero) for not allowing members to make a booking. Leave blank for no maximum settings."
+msgstr ""
+
+#: includes/admin-booking-item.php:131
+msgid "Booking range for guests"
+msgstr ""
+
+#: includes/admin-booking-item.php:135, includes/admin-booking-item.php:145
+msgid "day(s)"
+msgstr ""
+
+#: includes/admin-booking-item.php:136
+msgid "Sets a maximum period (days) counted from \"today\" where it is possible for a guest to make a booking. Leave blank for no maximum settings."
+msgstr ""
+
+#: includes/admin-booking-item.php:141
+msgid "Booking range for members"
+msgstr ""
+
+#: includes/admin-booking-item.php:146
+msgid "Sets a maximum period (days) counted from \"today\" where it is possible for a member to make a booking. Leave blank for no maximum settings."
+msgstr ""
+
+#: includes/admin-booking-item.php:158
+msgid "Non bookable days."
+msgstr ""
+
+#: includes/admin-booking-item.php:164
+msgid "Monday"
+msgstr ""
+
+#: includes/admin-booking-item.php:165
+msgid "Tuesday"
+msgstr ""
+
+#: includes/admin-booking-item.php:166
+msgid "Wednesday"
+msgstr ""
+
+#: includes/admin-booking-item.php:167
+msgid "Thursday"
+msgstr ""
+
+#: includes/admin-booking-item.php:168
+msgid "Friday"
+msgstr ""
+
+#: includes/admin-booking-item.php:169
+msgid "Saturday"
+msgstr ""
+
+#: includes/admin-booking-item.php:170
+msgid "Sunday"
+msgstr ""
+
+#: includes/admin-booking-item.php:180
+msgid "Select any day(s) where bookings cannot be made. This setting repeats itself and stops at the set \"Stop date\" (see below) if set"
+msgstr ""
+
+#: includes/admin-booking-item.php:187
+msgid "Stop date for Non bookable days."
+msgstr ""
+
+#: includes/admin-booking-item.php:194
+msgid "From the Stop date and going forward Non bookable days becomes bookable again."
+msgstr ""
+
+#: includes/admin-booking-item.php:201
+msgid "Closed date(s)"
+msgstr ""
+
+#: includes/admin-booking-item.php:209, includes/admin-booking-item.php:224, includes/admin-booking-item.php:245, includes/admin-booking-item.php:265
+msgid "From"
+msgstr ""
+
+#: includes/admin-booking-item.php:212, includes/admin-booking-item.php:227, includes/admin-booking-item.php:247, includes/admin-booking-item.php:267
+msgid "To"
+msgstr ""
+
+#: includes/admin-booking-item.php:236
+msgid "Select any day(s) and specific time(s)  where bookings cannot be made."
+msgstr ""
+
+#: includes/admin-booking-item.php:242
+msgid "Open Hours for booking"
+msgstr ""
+
+#: includes/admin-booking-item.php:253
+msgid "Booking duration."
+msgstr ""
+
+#: includes/admin-booking-item.php:257
+msgid "Minute(s)"
+msgstr ""
+
+#: includes/admin-booking-item.php:262
+msgid "Non bookable time"
+msgstr ""
+
+#: includes/admin-booking-item.php:269
+msgid "Select a time period during the day where bookings cannot be made. This setting repeats itself and will effect all following day(s) from \"today\"."
+msgstr ""
+
+#: includes/admin-booking-item.php:277
+msgid "Create booking item"
+msgstr ""
+
+#: includes/admin-booking-item.php:320
+msgid "Invalid nonce specified"
+msgstr ""
+
+#: includes/admin-booking-item.php:320
+msgid "Error"
+msgstr ""
+
+#: includes/admin-booking-item.php:374, includes/booking-item.php:158, includes/booking-item.php:184
+msgid "Booking Item"
+msgstr ""
+
+#: includes/admin-booking-items-list.php:51
+msgid "min"
+msgstr ""
+
+#: includes/admin-booking-items-list.php:58, includes/admin-settings.php:312, includes/booking.php:56
+msgid "USD"
+msgstr ""
+
+#: includes/admin-booking-items-list.php:59, includes/admin-settings.php:313, includes/booking.php:57
+msgid "EURO"
+msgstr ""
+
+#: includes/admin-booking-items-list.php:86
+msgid "Edit"
+msgstr ""
+
+#: includes/admin-booking-items-list.php:87, includes/booking-entry.php:746
+msgid "Delete"
+msgstr ""
+
+#: includes/admin-booking-items-list.php:120
+msgid "Price"
+msgstr ""
+
+#: includes/admin-booking-items-list.php:121
+msgid "Max per slot"
+msgstr ""
+
+#: includes/admin-booking-items-list.php:122
+msgid "Duration"
+msgstr ""
+
+#: includes/admin-settings.php:32
+msgid "Booking Form Configuration"
+msgstr ""
+
+#: includes/admin-settings.php:39
+msgid "Non bookable text."
+msgstr ""
+
+#: includes/admin-settings.php:47
+msgid "Enable Custom Style"
+msgstr ""
+
+#: includes/admin-settings.php:55
+msgid "Booking Email Configuration"
+msgstr ""
+
+#: includes/admin-settings.php:62
+msgid "From e-mail"
+msgstr ""
+
+#: includes/admin-settings.php:70
+msgid "Also Send E-mail To"
+msgstr ""
+
+#: includes/admin-settings.php:78
+msgid "From Name"
+msgstr ""
+
+#: includes/admin-settings.php:86
+msgid "Email subject"
+msgstr ""
+
+#: includes/admin-settings.php:94
+msgid "Email Message"
+msgstr ""
+
+#: includes/admin-settings.php:103
+msgid "Default Currency"
+msgstr ""
+
+#: includes/admin-settings.php:110
+msgid "Select Currency"
+msgstr ""
+
+#: includes/admin-settings.php:135, includes/admin-settings.php:145, includes/admin.php:23
+msgid "Bookings"
+msgstr ""
+
+#: includes/admin-settings.php:212
+msgid "Short text"
+msgstr ""
+
+#: includes/admin-settings.php:215
+msgid "Long text"
+msgstr ""
+
+#: includes/admin-settings.php:217
+msgid "Short text will be shown in the booking slot and long text is shown on mouse over. Non bookable text is generic and have effect for all non bookable items."
+msgstr ""
+
+#: includes/admin-settings.php:225, includes/admin-settings.php:277
+msgid "Please check to enable plugin custom style."
+msgstr ""
+
+#: includes/admin-settings.php:233
+msgid "Enter the email you want to display as \"from\" in the email send"
+msgstr ""
+
+#: includes/admin-settings.php:241
+msgid "If you would like a copy of the email send to the the user who made the booking please enter the email address here. The copy is send Bcc"
+msgstr ""
+
+#: includes/admin-settings.php:249
+msgid "Enter the name you want to display as from in the email send"
+msgstr ""
+
+#: includes/admin-settings.php:258
+msgid "Enter the subject for the email send"
+msgstr ""
+
+#: includes/admin-settings.php:267
+msgid "You can use tags to add booking details into the email message content.<br /> Allowed tags : <em>[booking_email], [booking_name], [booking_datetime], [item_name], [price], [slots], [total]</em>"
+msgstr ""
+
+#: includes/admin-settings.php:314, includes/booking.php:58
+msgid "DKK"
+msgstr ""
+
+#: includes/admin-settings.php:321
+msgid "Please add email configuration to setup booking email transaction"
+msgstr ""
+
+#: includes/admin-settings.php:326
+msgid "Please create Stripe API details and add here to use with booking public functions"
+msgstr ""
+
+#: includes/admin-settings.php:330
+msgid "Select default currency for booking public functions"
+msgstr ""
+
+#: includes/admin-settings.php:357
+msgid "Booking Settings"
+msgstr ""
+
+#: includes/admin-settings.php:381
+msgid "Save"
+msgstr ""
+
+#: includes/admin.php:34, includes/admin.php:35
+msgid "Add Entry"
+msgstr ""
+
+#: includes/admin.php:44, includes/admin.php:45
+msgid "Booking Items"
+msgstr ""
+
+#: includes/admin.php:53, includes/admin.php:54, includes/booking-item.php:164
+msgid "Add Item"
+msgstr ""
+
+#: includes/admin.php:63
+msgid "Settings"
+msgstr ""
+
+#: includes/admin.php:107
+msgid "Add Form"
+msgstr ""
+
+#: includes/admin.php:110
+msgid "Add Booking Form"
+msgstr ""
+
+#: includes/booking-email.php:109
+msgid "Could not send email, please check plugin settings"
+msgstr ""
+
+#: includes/booking-email.php:112
+msgid "Could find entry"
+msgstr ""
+
+#: includes/booking-entry.php:90
+msgid "Could not delete booking"
+msgstr ""
+
+#: includes/booking-entry.php:93, includes/booking-entry.php:122
+msgid "Your booking have been deleted"
+msgstr ""
+
+#: includes/booking-entry.php:124
+msgid "can not delete slot"
+msgstr ""
+
+#: includes/booking-entry.php:265
+msgid "Please enter your name"
+msgstr ""
+
+#: includes/booking-entry.php:268
+msgid "Please enter your email"
+msgstr ""
+
+#: includes/booking-entry.php:270
+msgid "E-Mail is in wrong format"
+msgstr ""
+
+#: includes/booking-entry.php:274, includes/booking-entry.php:557, includes/booking-entry.php:564
+msgid "Please select a time"
+msgstr ""
+
+#: includes/booking-entry.php:393
+msgid "Your last booking reach limitation, please contact admin for more detail"
+msgstr ""
+
+#: includes/booking-entry.php:398
+msgid "Your booking is duplicated, please refresh the page and try again"
+msgstr ""
+
+#: includes/booking-entry.php:405
+msgid "The email was used with a member, please try to login and continue"
+msgstr ""
+
+#: includes/booking-entry.php:410
+msgid "The email is not yours, please use the registered email to book"
+msgstr ""
+
+#: includes/booking-entry.php:439, includes/booking-entry.php:630
+msgid "Item was successfully saved"
+msgstr ""
+
+#: includes/booking-entry.php:442
+msgid "There was an error while saving item"
+msgstr ""
+
+#: includes/booking-entry.php:451
+msgid "Item was successfully updated"
+msgstr ""
+
+#: includes/booking-entry.php:453
+msgid "There was an error while updating item"
+msgstr ""
+
+#: includes/booking-entry.php:536
+msgid "Maximum active bookings allowed: %s"
+msgstr ""
+
+#: includes/booking-entry.php:537
+msgid "You can only select within %s day(s)."
+msgstr ""
+
+#: includes/booking-entry.php:546
+msgid "Please select a date"
+msgstr ""
+
+#: includes/booking-entry.php:546, includes/booking-item.php:860
+msgid "Today"
+msgstr ""
+
+#: includes/booking-entry.php:550, includes/booking-item.php:851
+msgid "Please select"
+msgstr ""
+
+#: includes/booking-entry.php:568
+msgid "Enter your details"
+msgstr ""
+
+#: includes/booking-entry.php:598
+msgid "Your e-mail"
+msgstr ""
+
+#: includes/booking-entry.php:602
+msgid "Message"
+msgstr ""
+
+#: includes/booking-entry.php:622
+msgid "Booking details"
+msgstr ""
+
+#: includes/booking-entry.php:623
+msgid "Your booking"
+msgstr ""
+
+#: includes/booking-entry.php:624
+msgid "Booking cost"
+msgstr ""
+
+#: includes/booking-entry.php:625
+msgid "Number of bookings"
+msgstr ""
+
+#: includes/booking-entry.php:626
+msgid "Total price"
+msgstr ""
+
+#: includes/booking-entry.php:637
+msgid "Book"
+msgstr ""
+
+#: includes/booking-entry.php:726
+msgid "Created date"
+msgstr ""
+
+#: includes/booking-entry.php:753
+msgid "Delete all"
+msgstr ""
+
+#: includes/booking-entry.php:761
+msgid "<p class=\"ent_notice\">You do not have any booking yet</p>"
+msgstr ""
+
+#: includes/booking-entry.php:764
+msgid "Please login to view the page"
+msgstr ""
+
+#: includes/booking-item.php:155
+msgctxt "Post Type General Name"
+msgid "Booking Items"
+msgstr ""
+
+#: includes/booking-item.php:156
+msgctxt "Post Type Singular Name"
+msgid "Booking Item"
+msgstr ""
+
+#: includes/booking-item.php:159
+msgid "Items Archives"
+msgstr ""
+
+#: includes/booking-item.php:160
+msgid "Form Attributes"
+msgstr ""
+
+#: includes/booking-item.php:161
+msgid "Parent Form:"
+msgstr ""
+
+#: includes/booking-item.php:162
+msgid "All Items"
+msgstr ""
+
+#: includes/booking-item.php:165
+msgid "New Item"
+msgstr ""
+
+#: includes/booking-item.php:166
+msgid "Edit Item"
+msgstr ""
+
+#: includes/booking-item.php:167
+msgid "Update Item"
+msgstr ""
+
+#: includes/booking-item.php:168
+msgid "View Item"
+msgstr ""
+
+#: includes/booking-item.php:169
+msgid "View Items"
+msgstr ""
+
+#: includes/booking-item.php:170
+msgid "Search Items"
+msgstr ""
+
+#: includes/booking-item.php:171
+msgid "Not found"
+msgstr ""
+
+#: includes/booking-item.php:172
+msgid "Not found in Trash"
+msgstr ""
+
+#: includes/booking-item.php:173
+msgid "Featured Image"
+msgstr ""
+
+#: includes/booking-item.php:174
+msgid "Set featured image"
+msgstr ""
+
+#: includes/booking-item.php:175
+msgid "Remove featured image"
+msgstr ""
+
+#: includes/booking-item.php:176
+msgid "Use as featured image"
+msgstr ""
+
+#: includes/booking-item.php:177
+msgid "Insert into item"
+msgstr ""
+
+#: includes/booking-item.php:178
+msgid "Uploaded to this item"
+msgstr ""
+
+#: includes/booking-item.php:179
+msgid "Items list"
+msgstr ""
+
+#: includes/booking-item.php:180
+msgid "Items list navigation"
+msgstr ""
+
+#: includes/booking-item.php:181
+msgid "Filter Items list"
+msgstr ""
+
+#: includes/booking-item.php:794, includes/booking-item.php:852
+msgid "Booked"
+msgstr ""
+
+#: includes/booking-item.php:853
+msgid "Please wait..."
+msgstr ""
+
+#: includes/booking-item.php:854
+msgid "There is an unexpected issue, please contact admin for more detail"
+msgstr ""
+
+#: includes/booking-item.php:859
+msgid "Done"
+msgstr ""
+
+#: includes/booking-item.php:863
+msgid "Show a different month"
+msgstr ""
+
+#: includes/booking-item.php:867
+msgid "Next"
+msgstr ""
+
+#: includes/booking-item.php:868
+msgid "Prev"
+msgstr ""
+
+#: includes/booking.php:32, includes/booking.php:36
+msgid "Your shortcode or the form was not setup correctly, please check again"
+msgstr ""
